@@ -6,7 +6,7 @@ import {
 } from './ansi.mjs';
 import { randomChar } from './characters.mjs';
 
-const MATRIX_ROWS = 15;
+const MATRIX_ROWS = 6;
 const FRAME_INTERVAL = 60; // ~16fps
 const SPAWN_CHANCE = 0.03; // 3% per column per tick
 

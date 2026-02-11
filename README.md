@@ -1,6 +1,10 @@
 # claude-matrix
 
+> **Note:** This is a proof of concept generated entirely by Claude Code.
+
 Matrix rain animation wrapper for Claude Code. Displays a Matrix-style falling character animation in the bottom 6 rows of your terminal while Claude is working.
+
+<video src="https://github.com/user-attachments/assets/5a6068d0-3d86-4531-9c54-42f75063a812" controls></video>
 
 ```
 ┌──────────────────────────────────────┐
