@@ -4,7 +4,7 @@
 
 Matrix rain animation wrapper for Claude Code. Displays a Matrix-style falling character animation in the bottom 6 rows of your terminal while Claude is working.
 
-<video src="https://github.com/user-attachments/assets/5a6068d0-3d86-4531-9c54-42f75063a812" controls></video>
+<video src="https://github.com/user-attachments/assets/cb99e9f6-18fb-4c40-ba66-d198213ee6d9" controls></video>
 
 ```
 ┌──────────────────────────────────────┐
