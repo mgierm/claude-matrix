@@ -1,0 +1,16 @@
+{
+  "name": "claude-matrix",
+  "version": "1.0.0",
+  "description": "Matrix rain animation wrapper for Claude Code",
+  "type": "module",
+  "bin": {
+    "claude-matrix": "./src/index.mjs"
+  },
+  "dependencies": {
+    "node-pty": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "MIT"
+}
